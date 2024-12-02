@@ -5,3 +5,5 @@ Abstract: https://global2024.pydata.org/cfp/talk/QQWVDC/
 This repo contains:
 - process.py, HDFS log parsing
 - out.parquet, created by process.py
+- repo.ipynb, conda repo processing example
+- demo_hdfs*.ipynb, four versions of server log processing

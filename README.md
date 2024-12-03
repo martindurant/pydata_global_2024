@@ -3,6 +3,7 @@ pydata global 2024: "akimbo: vectorized processing of nested/ragged dataframe co
 Abstract: https://global2024.pydata.org/cfp/talk/QQWVDC/
 
 This repo contains:
+- AKIMBO_pydataGlobal2024.pdf , slides
 - process.py, HDFS log parsing
 - out.parquet, created by process.py
 - repo.ipynb, conda repo processing example
